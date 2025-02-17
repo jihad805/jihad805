@@ -1,4 +1,4 @@
-![I am jihad805](<img src="img2">)
+![I am jihad805]()
 
 <h1 align="center">Hi 👋, I a'm JIHAD (ANOTOR)</h1>
 <h3 align="center">Programmer | Web Developer | student hablu programer | Speed Learner</h3>
